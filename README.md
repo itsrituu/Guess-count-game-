@@ -1,2 +1,2 @@
 # Guess-count-game-
-Python for non programmers : Game Loop
+Python for non programmers : Game Loop (linked learning)
